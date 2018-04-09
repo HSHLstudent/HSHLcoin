@@ -4,7 +4,8 @@ HSHLcoin integration/staging tree
 http://www.HSHLcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 HSHLcoin Developers
+Copyright (c) 2011-2017 Litecoin Developers
+Copyright (c) 2018      HSHLcoin Developers
 
 What is HSHLcoin?
 ----------------
@@ -18,8 +19,6 @@ The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the HSHLcoin client sofware, see http://www.HSHLcoin.org.
 
 License
 -------
@@ -47,14 +46,6 @@ controversial.
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/HSHLcoin-project/HSHLcoin/tags) are created
 regularly to indicate new official, stable release versions of HSHLcoin.
-
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
-remember this is a security-critical project where any mistake might cost people
-lots of money.
 
 ### Automated Testing
 
