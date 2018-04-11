@@ -16,7 +16,7 @@ HSHLcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - ~84 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 20 coins per block
  - 2016 blocks to retarget difficulty
 
 
